@@ -13,6 +13,7 @@
         <org.junit.junit-jupiter.version>5.9.1</org.junit.junit-jupiter.version>
         <surefire-plugin.version>3.0.0-M7</surefire-plugin.version>
         <compiler-plugin.version>3.8.0</compiler-plugin.version>
+        <exec.mainClass>fs.tdo.Main</exec.mainClass>
     </properties>
     <build>
         <plugins>
